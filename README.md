@@ -40,3 +40,5 @@
 
 ## 補充說明：
 電路之綠、迷之粉綠、東洋浮紙等設計靈感，是參考於[2019流行色彩](https://www.shutterstock.com/zh-Hant/blog/design-with-2019-color-trends)與[2019年色彩趨勢](https://www.shutterstock.com/zh-Hant/blog/2019-color-trends)兩篇文章所提的色彩設計趨勢去進行設計的。
+
+預設字體部份是使用開源的文泉驛微米黑。
